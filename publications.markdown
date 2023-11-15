@@ -5,19 +5,11 @@
 layout: default
 ---
 
-# About me
-
-I am a postdoctoral researcher at Zuse Institute Berlin and the Interactive Optimization and Learning (IOL) Lab, leading the Global Optimization research area within IOL and coordinating the development of the constraint integer programming solver SCIP.
-
-I completed a Ph.D. in computer science at the Australian National University under the supervision of Dr. Hassan Hijazi, Prof. Sylvie Thiebaux and Prof. Markus Hegland. In my thesis titled "Global Optimization for Energy Systems" I developed convex relaxations and generalized convexity conditions for nonconvex noonlinear programming problems (NLPs) and mixed-integer nonlinear programming problems (MINLPs), in particular the optimal power flow problem and a mixed-integer extension of it knows as the optimal transmission switching problem. Prior to this, I obtained a diploma in applied mathematics and informatics from the State Management University in Moscow.
-
-I work on creating new techniques to efficiently solve mixed-integer nonlinear programs to global optimality. I develop relaxations and cutting planes for convex and nonconvex MINLPs, more specifically problems involving bilinear products, on/off constraints and polynomials. Furthermore, I am interested in generalized convexity and its applications to global optimization. My research is closely linked to the development of the solver SCIP.
-
 # Publications
 
 {% for article in site.data.publications %}
   {%- for author in article[1].authors -%}
-    {{ author.first_name | slice: 0 }}. {{ author.last_name }}
+    {{ author.first_name }} {{ author.last_name }}
     {%- if forloop.index == forloop.length -%}
       .
     {%- else -%}
@@ -73,11 +65,3 @@ I work on creating new techniques to efficiently solve mixed-integer nonlinear p
   {%- endfor -%}
   <br /><br />
 {% endfor %}
-
-{% comment %}
-<a href="publications.html">See all publications</a>
-{% endcomment %}
-
-# Contact
-
-Email: bestuzheva@zib.de

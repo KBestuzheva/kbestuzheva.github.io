@@ -131,6 +131,8 @@ BestuzhevaBesanconEtal2023:
   journals:
     ACM Transactions on Mathematical Software:
       year: 2023
+      volume: 49
+      issue: 2
       doi: 10.1145/3585516
       dates:
         submitted: 2022-06-17

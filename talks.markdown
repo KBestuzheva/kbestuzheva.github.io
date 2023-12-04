@@ -8,9 +8,11 @@ layout: default
 # Talks
 
 {% for talk in site.data.talks %}
-  <i>{{ talk[1].title }}</i>.
-  {{ talk[1].conference }},
-  {{ talk[1].location }}.
-  [[slides]({{ site.url }}{{ site.baseurl }}/assets/slides/{{ talk[0] }}.pdf)]
-  <br /><br />
+  <b>{{ talk[1].title }}</b>.
+  {{ talk[1].conference }}
+  ({{ talk[1].date }}, {{ talk[1].location }}).
+  {%- if talk[1].slides -%}
+    &nbsp;[[slides]({{ site.url }}{{ site.baseurl }}/assets/slides/{{ talk[0] }}.pdf)]
+  {%- endif -%}
+  <br />
 {% endfor %}

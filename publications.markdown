@@ -9,7 +9,7 @@ layout: default
 
 {% for article in site.data.publications %}
   {%- for author in article[1].authors -%}
-    {{ author.first_name }} {{ author.last_name }}
+    {{ author.first_name | slice: 0 }}. {{ author.last_name }}
     {%- if forloop.index == forloop.length -%}
       .
     {%- else -%}

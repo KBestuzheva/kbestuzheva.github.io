@@ -1,10 +1,8 @@
-docs:
-
-#- title: Publications
-#  url: publications.html
-
 - title: CV
   url: cv.html
+
+- title: Publications
+  url: publications.html
 
 - title: Talks
   url: talks.html

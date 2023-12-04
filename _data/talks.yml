@@ -1,0 +1,97 @@
+modal2023:
+  title: SCIP Beyond 8.0
+  conference: 7th ZIB-IMI-ISM-NUS-RIKEN-MODAL Workshop on Future Algorithms and Applications
+  location: Berlin, Germany
+  date: 09/2023
+  slides: yes
+
+or2023:
+  title: Product and Factor Filtering for RLT for Bilinear and Mixed-Integer Problems
+  conference: Annual conference of the Society for Operations Research in Germany
+  location: Hamburg, Germany
+  date: 09/2023
+  slides: yes
+
+ipco2023:
+  title: Efficient Separation of RLT Cuts for Implicit and Explicit Bilinear Products
+  conference: 24th Conference on Integer Programming and Combinatorial Optimization
+  location: Madison, USA
+  date: 06/2023
+  slides: yes
+
+mip2023:
+  title: Perspective Cuts for Generalized On/Off Constraints
+  conference: Mixed Integer Programming Workshop
+  location: Los Angeles, USA
+  date: 05/2023
+  slides: yes
+
+aussois2023:
+  title: Tighter SONC Bounds for Polynomial Optimization Problems with Bounded Variable Domains
+  conference: Combinatorial Optimization Workshop
+  location: Aussois, France
+  date: 01/2023
+  slides: yes
+
+scip2022:
+  title: Strengthening Dual Bounds in Branch-and-Bound by SONC Certificates
+  conference: SCIP 20th Anniversary Workshop
+  location: Berlin, Germany
+  date: 11/2022
+  slides: yes
+
+hugo2022:
+  title: Strengthening SONC Relaxations with Constraints Derived from Variable Bounds
+  conference: HUGO 2022 - XV. Workshop on Global Optimization
+  location: Szeged, Hungary
+  date: 09/2022
+  slides: yes
+
+euro2022:
+  title: New Developments in the SCIP Optimization Suite 8
+  conference: 32nd European Conference on Operational Research
+  location: Espoo, Finland
+  date: 07/2022
+  slides: yes
+
+modal2021:
+  title: Recent Developments in SCIP
+  conference: 5th ZIB-RIKEN-IMI-ISM MODAL Workshop on Optimization, Data Analysis and HPC in AI
+  location: Berlin, Germany
+  date: 09/2021
+  slides: yes
+
+ifors2021:
+  title: Solving MINLPs with SCIP
+  conference: 22nd Conference of the International Federation of Operational Research Societies
+  location: online
+  date: 08/2021
+  slides: yes
+
+euro2021:
+  title: A Computational Study Of Perspective Cuts
+  conference: 31st European Conference On Operational Research
+  location: online
+  date: 07/2021
+  slides: yes
+
+minlp2021:
+  title: Reformulation-Linearisation Technique for Implicit Bilinear Relations
+  conference: MINLP Virtual Workshop 2021
+  location: online
+  date: 06/2021
+  slides: yes
+
+coatwork2020:
+  title: Mixed-Integer Nonlinear Programming
+  conference: CO@Work 2020
+  location: online
+  date: 09/2020
+  slides: yes
+
+scip2020:
+  title: Nonlinear Constraints in SCIP
+  conference: SCIP Online Workshop 2020
+  location: online
+  date: 06/2020
+  slides: yes

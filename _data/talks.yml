@@ -84,14 +84,14 @@ minlp2021:
 
 coatwork2020:
   title: Mixed-Integer Nonlinear Programming
-  conference: CO@Work 2020
+  conference: Combinatorial Optimization at Work 2020
   location: online
   date: 09/2020
   slides: yes
 
 scip2020:
   title: Nonlinear Constraints in SCIP
-  conference: SCIP Online Workshop 2020
+  conference: SCIP Workshop 2020
   location: online
   date: 06/2020
   slides: yes

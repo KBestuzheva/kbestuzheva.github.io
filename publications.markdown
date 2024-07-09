@@ -38,6 +38,9 @@ layout: default
       {% endcapture %}
       <a style="white-space: nowrap" href="{{doilink}}">{{doilink}}</a>
     {%- endif -%}
+    {%- if journal[1].note -%}
+      &nbsp;{{ journal[1].note }}
+    {%- endif -%}
   {%- endfor -%}
   {%- for proc in article[1].proceedings -%}
     {{ proc[0] }}

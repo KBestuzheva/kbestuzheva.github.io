@@ -1,3 +1,10 @@
+euro2024:
+  title: Generalized Convexity Applied to Branch-and-Bound Algorithms for MINLPs
+  conference: 33rd European Conference on Operational Research
+  location: Copenhagen, Denmark
+  date: 07/2024
+  slides: yes
+
 modal2023:
   title: SCIP Beyond 8.0
   conference: 7th ZIB-IMI-ISM-NUS-RIKEN-MODAL Workshop on Future Algorithms and Applications

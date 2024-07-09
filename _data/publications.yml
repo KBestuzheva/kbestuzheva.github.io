@@ -1,3 +1,20 @@
+BestuzhevaGleixnerAchterberg2024_EfficientSeparationOfRLT:
+  title: "Efficient Separation of RLT Cuts for Implicit and Explicit Bilinear Terms"
+  authors:
+  - first_name: Ksenia
+    last_name: Bestuzheva
+  - first_name: Ambros
+    last_name: Gleixner
+  - first_name: Tobias
+    last_name: Achterberg
+  preprints:
+    arxiv:
+      id: 2211.13545
+      subjects: math.OC
+  journals:
+    Mathematical Programming B:
+      note: (Accepted on 27.05.2024)
+
 BestuzhevaChmielaMueller2023_GlobalOptimizationOfMixedInteger:
   title: "Global Optimization of Mixed-Integer Nonlinear Programs with SCIP 8.0"
   authors:
@@ -65,12 +82,6 @@ BestuzhevaGleixnerAchterberg2023_EfficientSeparationOfRLT:
     last_name: Gleixner
   - first_name: Tobias
     last_name: Achterberg
-  preprints:
-    arxiv:
-      id: 2211.13545
-      subjects: math.OC
-      revisions:
-        - 24 Nov 2022
   proceedings:
     Integer Programming and Combinatorial Optimization:
       year: 2023

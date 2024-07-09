@@ -12,7 +12,7 @@ layout: default
   {{ talk[1].conference }}
   ({{ talk[1].date }}, {{ talk[1].location }}).
   {%- if talk[1].slides -%}
-    &nbsp;[[slides]({{ site.url }}{{ site.baseurl }}/assets/slides/{{ talk[0] }}.pdf)]
+    &nbsp;<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/{{ talk[0] }}.pdf" target="_blank">[slides]</a>
   {%- endif -%}
   <br />
 {% endfor %}

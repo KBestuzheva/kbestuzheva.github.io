@@ -7,4 +7,4 @@ layout: default
 
 # CV
 
-Here is a [link to my CV]({{ site.url }}{{ site.baseurl }}/assets/CV.pdf).
+Here is a <a href="{{ site.url }}{{ site.baseurl }}/assets/CV.pdf" target="_blank">link to my CV</a>.

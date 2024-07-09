@@ -7,7 +7,7 @@ layout: default
 
 # About me
 
-I am a postdoctoral researcher at Zuse Institute Berlin and the Interactive Optimization and Learning (IOL) Lab, leading the Global Optimization research area within IOL and coordinating the development of the open-source constraint integer programming solver SCIP.
+I am a researcher at Zuse Institute Berlin, leading the Mathematical Optimization Methods research group and coordinating the development of the open-source constraint integer programming solver <a href="https://www.scipopt.org/">SCIP</a>.
 
 I completed a Ph.D. in computer science at the Australian National University under the supervision of Dr. Hassan Hijazi, Prof. Sylvie Thiebaux and Prof. Markus Hegland. In my thesis titled "Global Optimization for Energy Systems" I developed convex relaxations and generalized convexity conditions for nonconvex nonlinear programming problems and mixed-integer nonlinear programming problems, in particular the optimal power flow problem and a mixed-integer extension of it known as the optimal transmission switching problem. Prior to this, I obtained a diploma in applied mathematics and informatics from the State Management University in Moscow.
 

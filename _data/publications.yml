@@ -13,7 +13,8 @@ BestuzhevaGleixnerAchterberg2024_EfficientSeparationOfRLT:
       subjects: math.OC
   journals:
     Mathematical Programming B:
-      note: (Accepted on 27.05.2024)
+      year: 2024
+      doi: https://doi.org/10.1007/s10107-024-02104-0
 
 BestuzhevaChmielaMueller2023_GlobalOptimizationOfMixedInteger:
   title: "Global Optimization of Mixed-Integer Nonlinear Programs with SCIP 8.0"

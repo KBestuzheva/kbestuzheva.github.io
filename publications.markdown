@@ -63,7 +63,7 @@ layout: default
       {% capture arxivlink %}
       https://arxiv.org/abs/{{preprint[1].id}}
       {% endcapture %}
-      [<a href="{{doilink}}">arXiv</a>]
+      [<a href="{{arxivlink}}">arXiv</a>]
     {%- endif -%}
   {%- endfor -%}
   <br /><br />

@@ -1,3 +1,22 @@
+XuMexiBestuzheva2025_Aggregations:
+  title: Sparsity-driven Aggregation of Mixed Integer Programs
+  authors:
+  - first_name: Liding
+    last_name: Xu
+  - first_name: Gioni
+    last_name: Mexi
+  - first_name: Ksenia
+    last_name: Bestuzheva
+  preprints:
+    arxiv:
+      id: 2502.01192
+      subjects: math.OC
+  proceedings:
+    23rd International Symposium on Experimental Algorithms:
+      year: 2025
+      doi: 10.4230/LIPIcs.SEA.2025.27
+      pages: 27:1-27:15
+
 BestuzhevaGleixnerAchterberg2024_EfficientSeparationOfRLT:
   title: "Efficient Separation of RLT Cuts for Implicit and Explicit Bilinear Terms"
   authors:

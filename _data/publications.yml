@@ -1,3 +1,23 @@
+Bestuzheva2026_Optima:
+  title: On Local Optima of Box-Constrained Quadratic Programs
+  authors:
+  - first_name: Ksenia
+    last_name: Bestuzheva
+  notes: (In preparation)
+
+Dionisio2025_Branch:
+  title: Branch and Price for Nonlinear Production-Maintenance Scheduling in Complex Machinery
+  authors:
+  - first_name: João
+    last_name: Dionísio
+  - first_name: Ambros
+    last_name: Gleixner
+  - first_name: João Pedro
+    last_name: Pedroso
+  - first_name: Ksenia
+    last_name: Bestuzheva
+  pdflink: https://arxiv.org/pdf/2511.07143
+
 XuMexiBestuzheva2025_Aggregations:
   title: Sparsity-driven Aggregation of Mixed Integer Programs
   authors:
@@ -16,6 +36,7 @@ XuMexiBestuzheva2025_Aggregations:
       year: 2025
       doi: 10.4230/LIPIcs.SEA.2025.27
       pages: 27:1-27:15
+  pdflink: https://arxiv.org/pdf/2502.01192
 
 BestuzhevaGleixnerAchterberg2024_EfficientSeparationOfRLT:
   title: "Efficient Separation of RLT Cuts for Implicit and Explicit Bilinear Terms"
@@ -34,6 +55,7 @@ BestuzhevaGleixnerAchterberg2024_EfficientSeparationOfRLT:
     Mathematical Programming B:
       year: 2024
       doi: 10.1007/s10107-024-02104-0
+  pdflink: https://arxiv.org/pdf/2211.13545
 
 BestuzhevaChmielaMueller2023_GlobalOptimizationOfMixedInteger:
   title: "Global Optimization of Mixed-Integer Nonlinear Programs with SCIP 8.0"
@@ -66,6 +88,7 @@ BestuzhevaChmielaMueller2023_GlobalOptimizationOfMixedInteger:
     Journal of Global Optimization:
       year: 2023
       doi: 10.1007/s10898-023-01345-1
+  pdflink: https://arxiv.org/pdf/2301.00587
 
 BestuzhevaGleixnerVigerske2023:
   title: A Computational Study of Perspective Cuts
@@ -92,6 +115,7 @@ BestuzhevaGleixnerVigerske2023:
         accepted: 2023-05-04
         published: 2023-08-21
       doi: 10.1007/s12532-023-00246-4
+  pdflink: https://arxiv.org/pdf/2103.09573
 
 BestuzhevaGleixnerAchterberg2023_EfficientSeparationOfRLT:
   title: "Efficient Separation of RLT Cuts for Implicit and Explicit Bilinear Products"
@@ -201,6 +225,7 @@ BestuzhevaBesanconEtal2023:
         submitted: 2022-06-17
         accepted: 2023-02-02
         published: 2023-03-10
+  pdflink: https://arxiv.org/pdf/2303.07101
 
 BestuzhevaGleixnerVoelker2022_StrengtheningSONC:
   title: Strengthening SONC Relaxations with Constraints Derived from Variable Bounds
@@ -222,6 +247,7 @@ BestuzhevaGleixnerVoelker2022_StrengtheningSONC:
       subjects: math.OC
       revisions:
         - 24 Apr 2023
+  pdflink: https://arxiv.org/pdf/2304.12145
 
 RaminBestuzhevaGargalo2021_IncrementalDesignOfWater:
   title: "Incremental Design of Water Symbiosis Networks with Prior Knowledge: the Case of an Industrial Park in Kenya"
@@ -254,6 +280,7 @@ RaminBestuzhevaGargalo2021_IncrementalDesignOfWater:
       doi: 10.1016/j.scitotenv.2020.141706
       dates:
         published: 2021-01-10
+  pdflink: https://backend.orbit.dtu.dk/ws/portalfiles/portal/236329059/STOTEN_D_20_14264R2_accepted.pdf
 
 BestuzhevaHijaziCoffrin2020:
   title: "Convex Relaxations for Quadratic On/Off Constraints and Applications to Optimal Transmission Switching"
@@ -271,6 +298,7 @@ BestuzhevaHijaziCoffrin2020:
       pages: 682–696
       year: 2020
       doi: 10.1287/ijoc.2019.0900
+  pdflink: https://optimization-online.org/wp-content/uploads/2016/07/5565.pdf
 
 BestuzhevaHijazi2019:
   title: "Invex Optimization Revisited"
@@ -286,3 +314,4 @@ BestuzhevaHijazi2019:
       pages: 753–782
       year: 2019
       doi: 10.1007/s10898-018-0650-1
+  pdflink: https://optimization-online.org/wp-content/uploads/2017/07/6117.pdf

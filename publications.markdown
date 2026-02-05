@@ -58,13 +58,14 @@ layout: default
       <a style="white-space: nowrap" href="{{doilink}}">{{doilink}}</a>
     {%- endif -%}
   {%- endfor -%}
-  {%- for preprint in article[1].preprints -%}
-    {%- if preprint[0] == "arxiv" -%}
-      {% capture arxivlink %}
-      https://arxiv.org/abs/{{preprint[1].id}}
-      {% endcapture %}
-      [<a href="{{arxivlink}}">arXiv</a>]
-    {%- endif -%}
-  {%- endfor -%}
+
+  {%- if article[1].pdflink -%}
+    <a style="white-space: nowrap" href="{{article[1].pdflink}}">[pdf]</a>
+  {%- endif -%}
+
+  {%- if article[1].notes -%}
+    {{ article[1].notes }}
+  {%- endif -%}
+
   <br /><br />
 {% endfor %}

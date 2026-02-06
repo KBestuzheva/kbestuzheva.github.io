@@ -38,6 +38,33 @@ XuMexiBestuzheva2025_Aggregations:
       pages: 27:1-27:15
   pdflink: https://arxiv.org/pdf/2502.01192
 
+Mexi2025_State:
+  title: State-of-the-Art Methods for Pseudo-Boolean Solving with SCIP
+  authors:
+  - first_name: Gioni
+    last_name: Mexi
+  - first_name: Dominik
+    last_name: Kamp
+  - first_name: Yuji
+    last_name: Shinano
+  - first_name: Shanwen
+    last_name: Pu
+  - first_name: Alexander
+    last_name: Hoen
+  - first_name: Ksenia
+    last_name: Bestuzheva
+  - first_name: Christopher
+    last_name: Hojny
+  - first_name: Matthias
+    last_name: Walter
+  - first_name: Marc E.
+    last_name: Pfetsch
+  - first_name: Sebastian
+    last_name: Pokutta
+  - first_name: Thorsten
+    last_name: Koch
+  pdflink: https://arxiv.org/pdf/2501.03390
+
 BestuzhevaGleixnerAchterberg2024_EfficientSeparationOfRLT:
   title: "Efficient Separation of RLT Cuts for Implicit and Explicit Bilinear Terms"
   authors:

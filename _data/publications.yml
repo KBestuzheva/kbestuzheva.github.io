@@ -5,6 +5,15 @@ Bestuzheva2026_Optima:
     last_name: Bestuzheva
   notes: (In preparation)
 
+Ramgraber2026_Bounding:
+  title: Bounding the Null Space: Interval-Based Uncertainty Quantification for Non-Identifiable Groundwater Models
+  authors:
+  - first_name: Maximilian
+    last_name: Ramgraber
+  - first_name: Ksenia
+    last_name: Bestuzheva
+  pdflink: https://arxiv.org/abs/2606.10836
+
 Dionisio2025_Branch:
   title: Branch and Price for Nonlinear Production-Maintenance Scheduling in Complex Machinery
   authors:
